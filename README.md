@@ -1,2 +1,2 @@
 # Dp-TelegramHelpDesk
-Дипломный проект "Телеграм-бот HelpDesk"
+"Телеграм-бот HelpDesk" с админкой на Django.
